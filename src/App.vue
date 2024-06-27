@@ -11,4 +11,8 @@ export default {
   methods: {},
 };
 </script>
-<style scoped></style>
+<style>
+body {
+  @apply bg-light-gray;
+}
+</style>
